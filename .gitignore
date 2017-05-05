@@ -1,0 +1,5 @@
+*.pdf
+REFC_NRCSTABTST_1_489_S_2017-03-05T00h22m05_I799.slp.fits
+*~
+refpix_sub_scratchwork.ipynb
+.ipynb_checkpoints/*
