@@ -15,7 +15,7 @@ ampEnds = [512,1024,1536,2048]
 namp = len(ampStarts)
 nfile = len(slpFiles)
 
-doplot=True
+doplot=False
 
 for fileInd, oneFile in enumerate(slpFiles):
     HDUList = fits.open(oneFile)
